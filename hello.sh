@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello World"
-echo "i am in master"
+echo "i am in feature"
